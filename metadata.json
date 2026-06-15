@@ -1,0 +1,6 @@
+{
+  "name": "Royal Parfums",
+  "description": "Campaña cinematográfica interactiva y elegante para la fragancia de lujo ROYAL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
